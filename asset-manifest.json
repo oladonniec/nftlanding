@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nftlanding/static/css/main.57e36e2b.css",
+    "main.js": "/nftlanding/static/js/main.e9afa450.js",
+    "static/media/gradient-2.jpg": "/nftlanding/static/media/gradient-2.17777d36567b15effd88.jpg",
+    "static/media/gradient-4.jpg": "/nftlanding/static/media/gradient-4.3b073b4a01a4981d3388.jpg",
+    "static/media/gradient-1.jpg": "/nftlanding/static/media/gradient-1.b14c1f6d5ab5b4d4111a.jpg",
+    "static/media/gradient-6.jpg": "/nftlanding/static/media/gradient-6.6b90f1828460720287dc.jpg",
+    "static/media/gradient-3.jpg": "/nftlanding/static/media/gradient-3.611f2f66c6c9767db6eb.jpg",
+    "static/media/gradient-7.jpg": "/nftlanding/static/media/gradient-7.aae8bdbf1d38d1cedf2b.jpg",
+    "static/media/gradient-5.jpg": "/nftlanding/static/media/gradient-5.f38da09677221aa7046e.jpg",
+    "static/media/newprofile.jpg": "/nftlanding/static/media/newprofile.ab088519f9e5da92ac80.jpg",
+    "static/media/IntegralCF-Bold.otf": "/nftlanding/static/media/IntegralCF-Bold.a714baf623cd7aa474dd.otf",
+    "index.html": "/nftlanding/index.html",
+    "main.57e36e2b.css.map": "/nftlanding/static/css/main.57e36e2b.css.map",
+    "main.e9afa450.js.map": "/nftlanding/static/js/main.e9afa450.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57e36e2b.css",
+    "static/js/main.e9afa450.js"
+  ]
+}
